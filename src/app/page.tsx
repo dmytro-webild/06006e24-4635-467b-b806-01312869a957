@@ -54,7 +54,7 @@ export default function LandingPage() {
           id: "contact",
         },
       ]}
-      brandName="RDD Web Studio"
+      brandName=""
     />
   </div>
 
