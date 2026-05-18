@@ -62,7 +62,7 @@ export default function LandingPage() {
                 title: "Core Web Vitals",                
                 subtitle: "Speed optimization",                
                 description: "Ensuring your site loads instantly for every visitor.",                
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DurchDlhPUCoUbfjLwOB6GrIhH/uploaded-1779143505596-3sra8hw5.png"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DurchDlhPUCoUbfjLwOB6GrIhH/uploaded-1779143505596-3sra8hw5.png?_wi=1"
             }
         ]}
     />
@@ -75,9 +75,9 @@ export default function LandingPage() {
       gridVariant="three-columns-all-equal-width"
       useInvertedBackground={true}
       features={[
-        { title: "Website Design", description: "Clean, custom designs. RDD Web Studio quality.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DurchDlhPUCoUbfjLwOB6GrIhH/uploaded-1779143505596-3sra8hw5.png" },
-        { title: "Mobile-Friendly", description: "Optimized for all devices.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DurchDlhPUCoUbfjLwOB6GrIhH/uploaded-1779143505596-3sra8hw5.png" },
-        { title: "Landing Pages", description: "High-converting ad pages.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DurchDlhPUCoUbfjLwOB6GrIhH/uploaded-1779143505596-3sra8hw5.png" },
+        { title: "Website Design", description: "Clean, custom designs. RDD Web Studio quality.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DurchDlhPUCoUbfjLwOB6GrIhH/uploaded-1779143505596-3sra8hw5.png?_wi=2" },
+        { title: "Mobile-Friendly", description: "Optimized for all devices.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DurchDlhPUCoUbfjLwOB6GrIhH/uploaded-1779143505596-3sra8hw5.png?_wi=3" },
+        { title: "Landing Pages", description: "High-converting ad pages.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DurchDlhPUCoUbfjLwOB6GrIhH/uploaded-1779143505596-3sra8hw5.png?_wi=4" },
       ]}
       title="Services by RDD Web Studio"
       description="We specialize in modern, high-converting digital presence."
