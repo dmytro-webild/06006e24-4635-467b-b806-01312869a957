@@ -75,7 +75,7 @@ export default function LandingPage() {
           href: "#services",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/smartphone-laptop-with-blank-screens_273609-6762.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/smartphone-laptop-with-blank-screens_273609-6762.jpg?_wi=1"
       mediaAnimation="blur-reveal"
       avatars={[
         {
@@ -273,7 +273,7 @@ export default function LandingPage() {
             text: "Request Free Audit",
             href: "#contact",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/smartphone-laptop-with-blank-screens_273609-6762.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smartphone-laptop-with-blank-screens_273609-6762.jpg?_wi=2",
           imageAlt: "Experienced tattoo artist working on client tattoo",
         },
         {
