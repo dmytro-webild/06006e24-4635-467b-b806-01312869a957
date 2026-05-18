@@ -47,6 +47,8 @@ export default function LandingPage() {
       buttons={[{ text: "Get a Free Website Audit", href: "#audit" }, { text: "View Services", href: "#services" }]}
       imageSrc="http://img.b2bpic.net/free-photo/smartphone-laptop-with-blank-screens_273609-6762.jpg?_wi=1"
       mediaAnimation="blur-reveal"
+      avatarText="Trusted by local brands"
+      avatars={[{ src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DurchDlhPUCoUbfjLwOB6GrIhH/uploaded-1779144356748-9i6umpqn.png", alt: "Company Logo" }]}
     />
   </div>
 
