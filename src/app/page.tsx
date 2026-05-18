@@ -2,14 +2,11 @@
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import ReactLenis from "lenis/react";
-import ContactText from '@/components/sections/contact/ContactText';
 import FeatureCardThree from '@/components/sections/feature/featureCardThree/FeatureCardThree';
 import FooterBaseReveal from '@/components/sections/footer/FooterBaseReveal';
 import HeroSplit from '@/components/sections/hero/HeroSplit';
 import InlineImageSplitTextAbout from '@/components/sections/about/InlineImageSplitTextAbout';
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
-import PricingCardNine from '@/components/sections/pricing/PricingCardNine';
-import TestimonialCardTwo from '@/components/sections/testimonial/TestimonialCardTwo';
 import FeatureCardNineteen from '@/components/sections/feature/FeatureCardNineteen';
 
 export default function LandingPage() {
@@ -58,9 +55,14 @@ export default function LandingPage() {
         title="Professional Website Audit"
         description="We analyze your current presence to identify conversion gaps and opportunities for growth."
         textboxLayout="split"
+        useInvertedBackground={false}
         features={[
             {
-                tag: "Performance",                title: "Core Web Vitals",                subtitle: "Speed optimization",                description: "Ensuring your site loads instantly for every visitor.",                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DurchDlhPUCoUbfjLwOB6GrIhH/uploaded-1779143505596-3sra8hw5.png"
+                tag: "Performance",                
+                title: "Core Web Vitals",                
+                subtitle: "Speed optimization",                
+                description: "Ensuring your site loads instantly for every visitor.",                
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DurchDlhPUCoUbfjLwOB6GrIhH/uploaded-1779143505596-3sra8hw5.png"
             }
         ]}
     />
